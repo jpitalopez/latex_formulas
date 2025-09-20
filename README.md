@@ -9,3 +9,10 @@ conda create -n latex_llm python=3.10
 conda activate latex_llmm
 
 pip install unsloth
+
+pip install sympy
+
+pip install sympy-latex-parser
+
+pip install antlr4-python3-runtime==4.11
+
