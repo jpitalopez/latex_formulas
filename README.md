@@ -6,7 +6,7 @@ Puedes ver mi perfil en [LinkedIn](https://www.linkedin.com/in/juan-pita-6391862
 
 conda create -n latex_llm python=3.10
 
-conda activate latex_llmm
+conda activate latex_llm
 
 pip install unsloth
 
